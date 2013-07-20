@@ -23,5 +23,4 @@ The concept and purpose of this API is to be able to do something like this in J
 
     // convert back to Java object
     javaObject = Bison.objectify(javaObject, json);
-
     ...
