@@ -3,13 +3,13 @@ Bison
 
 A simple and lightweight bi-directional Java object to JSON serializer and vice versa. Notable features:
 
-[]JSON to Java object serializer
-[]Java to JSON deserializer
-[]Method-chaining
-[]Custom JSON parsing
-[]Lightweight
-[]The concept and purpose of this API is to be able to do something like this in Java:
+*  JSON to Java object serializer
+*  Java to JSON deserializer
+*  Method-chaining
+*  Custom JSON parsing
+*  Lightweight
 
+The concept and purpose of this API is to be able to do something like this in Java:
 
     ...
     CharSequence jsonText = ...
